@@ -21,17 +21,17 @@ With dataset preprocessed, the accuracy was 91.38%.
 In Linux/Unix
 
 ```bash
-$ python -m venv venv
-$ source venv/bin/activate
-$ pip install --upgrade pip
-$ pip install -r requirements.txt
+python -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 In Windows
 
 ```bash
-$ python -m venv venv
-$ venv/Scripts/activate
-$ pip install --upgrade pip
-$ pip install -r requirements.txt
+python -m venv venv
+venv/Scripts/activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
